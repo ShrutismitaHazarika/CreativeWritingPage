@@ -1,10 +1,1 @@
 # CreativeWritingPage
-![insta5](https://user-images.githubusercontent.com/84340740/125766037-580ff741-8712-4c2b-9677-56833c14ddb9.png)
-![youtube 1](https://user-images.githubusercontent.com/84340740/125766142-82289ce0-dc14-4211-8288-68aa9e1281dc.png)
-![poem1](https://user-images.githubusercontent.com/84340740/125766159-773e764e-f539-4a9a-ba33-a1b7b05d1978.jpeg)
-![poem2](https://user-images.githubusercontent.com/84340740/125766179-e14ff2cc-4e40-47b4-b4c0-ebef883a3d6f.jpeg)
-![poem3](https://user-images.githubusercontent.com/84340740/125766192-3d504149-651c-41e6-bde1-cfa031b09443.jpeg)
-![poem4](https://user-images.githubusercontent.com/84340740/125766205-e2759b21-2966-4c56-b5e1-a5bfaff3da88.jpeg)
-![poem5](https://user-images.githubusercontent.com/84340740/125766212-01e6bb0f-9f7e-4372-867c-a9246b5ea386.jpeg)
-![poem6](https://user-images.githubusercontent.com/84340740/125766219-6f85ccaf-fe4a-4d70-99c5-ab4cc2bed1a7.jpeg)
-![poem7](https://user-images.githubusercontent.com/84340740/125766231-6efb9549-4172-42c5-bfb7-8f1baaabdea9.jpeg)
